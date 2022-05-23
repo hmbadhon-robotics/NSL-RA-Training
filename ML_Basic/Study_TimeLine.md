@@ -46,7 +46,13 @@
    Studied RF from NSL provided resources.
    Applied RF on Diabetes Dataset,EDA, Preprocessed, Grid Search, Best Model Fit, Evaluation.
    Date:[20-5-22]
-   
+   #### 3.GradientBoost, XGBoost
+   Studied GraientBoost, XGBoost from NSL Provided links and videos. Learned about Ensemble Techniques
+   Date:[20-5-22]
 ## 5. Week-4(Week 04: Unsupervised Learning)
+   #### 1. Clustering
+   Studied Clustering from NSL provided resources and applied and revised my own clustering materials from Kaggle.
+   [kaggle Notebook](/https://www.kaggle.com/code/nuhashafnan/cluster-analysis-kmeans-kmediod-agnes-birch-dbscan)
+   
 
 
