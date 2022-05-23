@@ -17,9 +17,22 @@
    Date:[12-5-22]
    #### 6. Logistic Regresssion
    Applied Logistic Regression on Heart Disease Dataset, Preprocessed, Grid Search, Best Model Fit, Evaluation.
-   Date: [12-5-22
+   Date: [12-5-22]
    
-## 2. Week-2 Supervised Learning (Support Vector Machines))
+## 2. Week-2 Supervised Learning (Support Vector Machines)) 
+   #### 1. Support Vector Machine
+   Studied SVM from NSL provided resources and Youtube Andrew NG course
+   Applied SVM on Heart Disease Dataset,EDA, Preprocessed, Grid Search, Best Model Fit, Evaluation.
+   Date:[18-5-22]
+   #### 2. Naive Bayes
+   Studied Naive Bayes from NSL provided resources and Youtube Andrew NG course
+   Applied Naive Bayes on Heart Disease Dataset,EDA, Preprocessed, Grid Search, Best Model Fit, Evaluation.
+   Date:[18-5-22]
+   #### 3. K Nearest Neighbour
+   Studied KNN from NSL provided resources and Youtube Andrew NG course
+   Applied KNN on Heart Disease Dataset,EDA, Preprocessed, Grid Search, Best Model Fit, Evaluation.
+   Date:[18-5-22]
+   
 ## 3. Week-3-part1(Week 03 | Part 1: Tuning and Performance Metrics of ML Model)
 ## 4. Week-3-part2(Week 03 | Part 2: Ensemble Learning)
 ## 5. Week-4(Week 04: Unsupervised Learning)
