@@ -53,6 +53,13 @@
    #### 1. Clustering
    Studied Clustering from NSL provided resources and applied and revised my own clustering materials from Kaggle.
    [kaggle Notebook](/https://www.kaggle.com/code/nuhashafnan/cluster-analysis-kmeans-kmediod-agnes-birch-dbscan)
+   Date:[21-5-22]
+   #### 2. Dimentionality Reduction
+   Studied PCA and Applied PCA on a Diabetes Dataset to analyse effects of dimention reduction.
+   Date:[21-5-22]
+   #### 3.Anomaly Detection, Recommender Systems, Association Rule Mining and Apriori Algorithms
+   Studied from nsl provided links.
+   Date:[22-5-22]
    
 
 
