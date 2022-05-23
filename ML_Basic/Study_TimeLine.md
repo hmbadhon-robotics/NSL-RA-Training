@@ -34,7 +34,19 @@
    Date:[18-5-22]
    
 ## 3. Week-3-part1(Week 03 | Part 1: Tuning and Performance Metrics of ML Model)
+   #### 1. Regularization,Performance Metrics, Model Selection
+   Studied about regularization,Test-Train split, underfit, overfit, good fit, generalization from Andrew Ng ML Course.
+   Date:[17-5-22]
 ## 4. Week-3-part2(Week 03 | Part 2: Ensemble Learning)
+   #### 1. Decision Tree
+   Studied DT from NSL provided resources.
+   Applied DT on Diabetes Dataset,EDA, Preprocessed, Grid Search, Best Model Fit, Evaluation.
+   Date:[20-5-22]
+   #### 2. Random Forest
+   Studied RF from NSL provided resources.
+   Applied RF on Diabetes Dataset,EDA, Preprocessed, Grid Search, Best Model Fit, Evaluation.
+   Date:[20-5-22]
+   
 ## 5. Week-4(Week 04: Unsupervised Learning)
 
 
