@@ -1,4 +1,4 @@
-## Table of Contents
+## Course Study Timeline & Works
 ## 1. Week-1 ML Intro and Supervised Learning (Linear Regression, Logistic Regression)
    #### DataPreprocessing
 ## 2. Week-2 Supervised Learning (Support Vector Machines))
