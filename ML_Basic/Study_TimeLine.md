@@ -1,11 +1,8 @@
 # Table of Contents
-1. [Week-1](#example)
-2. [Week-2](#example2)
-3. [Week-3](#third-example)
-4. [Week-4](#fourth-examplehttpwwwfourthexamplecom)
+1. [Week-1](#ML Intro and Supervised Learning (Linear Regression, Logistic Regression))
+2. [Week-2](#Supervised Learning (Support Vector Machines))
+3. [Week-3-part1](#Week 03 | Part 1: Tuning and Performance Metrics of ML Model)
+4. [Week-3-part2](#Week 03 | Part 2: Ensemble Learning)
+5. [Week-4](#Week 04: Unsupervised Learning)
 
 
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
