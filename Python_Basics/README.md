@@ -9,10 +9,15 @@ Date-[23-5-22]
 
 ### Week#02
 
-- [Function and module](https://python.howtocode.dev/function-and-module)
-- [File and exception](https://python.howtocode.dev/file-exception)
-- [Encoding, PEP, __main__](https://python.howtocode.dev/faq)
-- [Packaging](https://python.howtocode.dev/package)
+-  Studied **Function and module** from NSL Provided links. Practised Lambda, Filter , Map, Generator , Pure Impure Function.<br>
+[Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/Python_Basics/Functional_Programming)<br>
+Date-[24-5-22]
+- Studied **File and exception** from NSL Provided Links, Practised Exception Handling, raise and File Operations.<br>
+[Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/Python_Basics/File_Exception)<br>
+Date-[24-5-22]
+#### Studying
+- Encoding, PEP, __main_
+- Packaging
 
 ## Python OOP
 - Studied OOP Python from NSL Provided links and Practised with all codes and examined the functionalities.
@@ -36,10 +41,6 @@ Date-[23-5-22]
   - [Debugging](https://www.hackerrank.com/domains/python?filters%5Bdifficulty%5D%5B%5D=medium&filters%5Bsubdomains%5D%5B%5D=py-debugging)
 
 __NB: Earn at list 5 starts by solving problem in hacker rank__
-
-## Resources
-- [Python built in data structure time complexity](https://wiki.python.org/moin/TimeComplexity?)
-- [Python developer radmap](https://roadmap.sh/python)
 
 
 ## Week # 05 - 06
