@@ -9,44 +9,53 @@
    Date:[19-5-22]
    #### 3. Simple Linear Regresion
    Applied Simple Linear Regression on Fish Dataset.<br>
-   Date:[11-5-22]
+   Date:[11-5-22] <br>
+   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/ML_Basic/Linear_Regression)
    #### 4. Multiple Linear Regression
    Applied Multiple Linear Regression on Fish Dataset.<br>
-   Date:[12-5-22]
+   Date:[12-5-22] <br>
+   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/ML_Basic/Multiple%20Linear%20Regression)
    #### 5. Polynomial Regression
    Applied on Fish Dataset and Done Error Analysis.<br>
-   Date:[12-5-22]
+   Date:[12-5-22] <br>
+   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/ML_Basic/PolyNomialRegression)
    #### 6. Logistic Regresssion
    Applied Logistic Regression on Heart Disease Dataset, Preprocessed, Grid Search, Best Model Fit, Evaluation.<br>
-   Date: [12-5-22]
+   Date: [12-5-22]<br>
+   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/ML_Basic/LogisticRegression)
    
 ## 2. Week-2 Supervised Learning (Support Vector Machines)) 
    #### 1. Support Vector Machine
    Studied SVM from NSL provided resources and Youtube Andrew NG course
    Applied SVM on Heart Disease Dataset,EDA, Preprocessed, Grid Search, Best Model Fit, Evaluation.<br>
-   Date:[18-5-22]
+   Date:[18-5-22]<br>
+   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/ML_Basic/SupportVectorMachine)
    #### 2. Naive Bayes
    Studied Naive Bayes from NSL provided resources and Youtube Andrew NG course
    Applied Naive Bayes on Heart Disease Dataset,EDA, Preprocessed, Grid Search, Best Model Fit, Evaluation.<br>
-   Date:[18-5-22]
+   Date:[18-5-22]<br>
+   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/ML_Basic/NaiveBayes)
    #### 3. K Nearest Neighbour
    Studied KNN from NSL provided resources and Youtube Andrew NG course
    Applied KNN on Heart Disease Dataset,EDA, Preprocessed, Grid Search, Best Model Fit, Evaluation.<br>
-   Date:[18-5-22]
+   Date:[18-5-22] <br>
+   [Link].(https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/ML_Basic/K-Nearest%20Neighbor)
    
 ## 3. Week-3-part1(Week 03 | Part 1: Tuning and Performance Metrics of ML Model)
    #### 1. Regularization,Performance Metrics, Model Selection
    Studied about regularization,Test-Train split, underfit, overfit, good fit, generalization from Andrew Ng ML Course.<br>
-   Date:[17-5-22]
+   Date:[17-5-22] 
 ## 4. Week-3-part2(Week 03 | Part 2: Ensemble Learning)
    #### 1. Decision Tree
    Studied DT from NSL provided resources.
    Applied DT on Diabetes Dataset,EDA, Preprocessed, Grid Search, Best Model Fit, Evaluation.<br>
-   Date:[20-5-22]
+   Date:[20-5-22]<br>
+   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/ML_Basic/DecisionTree)
    #### 2. Random Forest
    Studied RF from NSL provided resources.
    Applied RF on Diabetes Dataset,EDA, Preprocessed, Grid Search, Best Model Fit, Evaluation.<br>
-   Date:[20-5-22]
+   Date:[20-5-22]<br>
+   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/ML_Basic/RandomForest)
    #### 3.GradientBoost, XGBoost
    Studied GraientBoost, XGBoost from NSL Provided links and videos. Learned about Ensemble Techniques.<br>
    Date:[20-5-22]
@@ -57,10 +66,9 @@
    Date:[21-5-22]
    #### 2. Dimentionality Reduction
    Studied PCA and Applied PCA on a Diabetes Dataset to analyse effects of dimention reduction.<br>
-   Date:[21-5-22]
+   Date:[21-5-22]<br>
+   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/ML_Basic/PCA)
    #### 3.Anomaly Detection, Recommender Systems, Association Rule Mining and Apriori Algorithms
    Studied from nsl provided links.<br>
    Date:[22-5-22]
-   
-
 
