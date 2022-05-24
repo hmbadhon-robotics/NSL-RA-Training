@@ -2,7 +2,8 @@
 ## 1. Week-1 ML Intro and Supervised Learning (Linear Regression, Logistic Regression)
    #### 1. DataPreprocessing
    Applied different Preprocessing Techniques on a tabluar dataset of Fish Attributes. <br>
-   Date:[19-5-22]
+   Date:[19-5-22] <br>
+   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/ML_Basic/DataPreprocessing)
    #### 2. Data Visualization
    Studied Data Visualization Techniques used through python matplotlib library from the NSL resources. <br>
    Date:[19-5-22]
