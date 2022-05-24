@@ -17,6 +17,7 @@ Date-[23-5-22]
 ## Python OOP
 - Studied OOP Python from NSL Provided links and Practised with all codes and examined the functionalities.
 - Studied Class, Inheritance , Multiple Inheritance , Overriding, Polymorphism, Operator Overloading, Magic Methods, Public, Protected, Private in OOP Python. <br>
+ Date-[23-5-22] <br>
   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/Python_Basics/OOP_Python)
 
 -----
