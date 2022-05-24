@@ -1,4 +1,4 @@
-# Python learning
+# Python learning Course Outline and Timeline
 
 ## Basic python 
 ### Week#01
@@ -29,20 +29,17 @@ Date-[24-5-22]
 
 ## Problem solving using python
 ### Week#03 and Week#04
-- [Hacker rank](https://www.hackerrank.com/domains/python)
-- Must solve problems links
-  - [Strings](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-strings&filters%5Bdifficulty%5D%5B%5D=medium)
-  - [Math](https://www.hackerrank.com/challenges/python-quest-1)
-  - [Error and exception](https://www.hackerrank.com/domains/python?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bsubdomains%5D%5B%5D=errors-exceptions)
-  - [class](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-classes)
-  - [Regex](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-regex&filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bdifficulty%5D%5B%5D=medium)
-  - [xml](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=xml)
-  - [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
-  - [Debugging](https://www.hackerrank.com/domains/python?filters%5Bdifficulty%5D%5B%5D=medium&filters%5Bsubdomains%5D%5B%5D=py-debugging)
-
-__NB: Earn at list 5 starts by solving problem in hacker rank__
-
-
+- [Hacker rank ID](https://www.hackerrank.com/NuhashAfnan)<br>
+  Have Earned 5 stars in Domain of Python
+- Still Trying to solve Must solve problems links. Solved 48/115 Problems.<br> Solving the required Topics.
+  - Strings
+  - Math
+  - Error and exception
+  - class
+  - Regex
+  - xml
+  - Numpy
+  - Debugging
 ## Week # 05 - 06
 
-- [Communication guidelines](https://github.com/NSLabTeam/knowledge-sharing/blob/main/communication-guidelines.pdf)
+- Communication guidelines. Watched the presentation by Faruk Bhai
