@@ -3,24 +3,21 @@
 ## Basic python 
 ### Week#01
 - Studied Intro, Installation, Basic Concepts, Control Structure ,Data Types from NSL provided Links.<br> 
+Date-[23-5-22]
 
 -----
 
 ### Week#02
+
 - [Function and module](https://python.howtocode.dev/function-and-module)
 - [File and exception](https://python.howtocode.dev/file-exception)
 - [Encoding, PEP, __main__](https://python.howtocode.dev/faq)
 - [Packaging](https://python.howtocode.dev/package)
 
 ## Python OOP
-- [Object oriented programming (OOP) Python](https://python.howtocode.dev/oop-python)
-
-## Python 3 in  one picture
-- [Python3 in one picture](https://github.com/menon92/Python-Learning/blob/master/images/py3%20in%20one%20pic.png)
-
-## Others references
-- [Problem solving with python - 1](https://runestone.academy/runestone/books/published/pythonds/Introduction/toctree.html)
-- [Problem solving with python - 2](https://runestone.academy/runestone/books/published/pythonds/ProperClasses/toctree.html)
+- Studied OOP Python from NSL Provided links and Practised with all codes and examined the functionalities.<br>
+  Studied Class, Inheritance , Multiple Inheritance , Overriding, Polymorphism, Operator Overloading, Magic Methods, Public, Protected, Private in OOP Python
+  [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/Python_Basics/OOP_Python)
 
 -----
 
