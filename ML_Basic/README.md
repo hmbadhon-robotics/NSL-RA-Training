@@ -62,7 +62,7 @@
 ## 5. Week-4(Week 04: Unsupervised Learning)
    #### 1. Clustering
    Studied Clustering from NSL provided resources and applied and revised my own clustering materials from Kaggle.
-   [kaggle Notebook](/https://www.kaggle.com/code/nuhashafnan/cluster-analysis-kmeans-kmediod-agnes-birch-dbscan)<br>
+   [kaggle Notebook](https://www.kaggle.com/code/nuhashafnan/cluster-analysis-kmeans-kmediod-agnes-birch-dbscan)<br>
    Date:[21-5-22]
    #### 2. Dimentionality Reduction
    Studied PCA and Applied PCA on a Diabetes Dataset to analyse effects of dimention reduction.<br>
