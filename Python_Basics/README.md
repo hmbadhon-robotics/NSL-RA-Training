@@ -2,11 +2,7 @@
 
 ## Basic python 
 ### Week#01
-- [Introduction](https://python.howtocode.dev/)
-- [Installation](https://python.howtocode.dev/installation)
-- [Basic concept](https://python.howtocode.dev/basic-concept)
-- [Control structure](https://python.howtocode.dev/control-structure)
-- [Data types](https://python.howtocode.dev/data-types)
+- Studied Intro, Installation, Basic Concepts, Control Structure ,Data Types from NSL provided Links.<br> 
 
 -----
 
