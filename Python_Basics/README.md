@@ -15,9 +15,9 @@ Date-[24-5-22]
 - Studied **File and exception** from NSL Provided Links, Practised Exception Handling, raise and File Operations.<br>
 [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/Python_Basics/File_Exception)<br>
 Date-[24-5-22]
-#### Studying
-- Encoding, PEP, __main_
-- Packaging
+- Studied about Encoding, PEP, __main_  
+- Studied Packaging <br>
+Date-[25-5-22]
 
 ## Python OOP
 - Studied **OOP Python** from NSL Provided links and Practised with all codes and examined the functionalities.
