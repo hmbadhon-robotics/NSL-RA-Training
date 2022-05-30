@@ -8,7 +8,7 @@
 3. Basic python - Structure + OOP, part-0 (Practised on python Basic Guide from NSL Resources)
 
 ### Practice Problems
-1. [Hackerrank Online Platform](https://www.hackerrank.com/NuhashAfnan) Profile link given...Solving Python based problems with categories.
+1. [Hackerrank Online Platform](https://www.hackerrank.com/NuhashAfnan) Profile link given...Solving Python based problems with required categories.
 
 
 ### Required Topics
