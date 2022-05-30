@@ -22,3 +22,26 @@
 ### Practice Problems
 1. [Hackerrank Online Platform](https://www.hackerrank.com/domains/python)
 -----
+## Week#02
+### Required Topics
+1. Manage Anaconda Environment - Installed Anaconda on PC and Practised basic anaconda environment management command.[27-05-22]
+2. Studied basic numpy and run through all codes and practised resources from NSL.[30-05-22]
+3. Studied Numpy with basic statistics concepts.Run Through All Codes.[30-05-22]
+### Recommended Courses
+1. Stanford Numpy Course completed and practised all the codes on PC. [30-05-22]
+
+#### To Be Studied...
+### Required Topics
+1. [OpenCV](./OpenCV-Intro)
+    - For extensive opencv extample please check [this](./OpenCV-Intro/explore-cv)
+3. [Pillow image processing](https://pillow.readthedocs.io/en/stable/)
+    - `Image`, `ImageChops`, `ImageColor`
+    - `ImageDraw`, `ImageOps`, `ImageEnhance`
+4. [Pillow font](https://pillow.readthedocs.io/en/stable/reference/ImageFont.html?highlight=ImageFont#imagefont-module)
+### Recommended Courses
+1. [OpenCV course](https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/)
+### Reference Books
+1. [Python CookBook](./Python_Cookbook_3rd%20Edition.pdf)
+2. [Automate The Boring Stuff With Python](./Books/automate_the_boring_stuff_with_python.pdf)
+### Practice Problems
+1. [Hackerrank Image analysis challenges](https://www.hackerrank.com/contests/image-analysis-1/challenges)
