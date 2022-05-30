@@ -24,13 +24,13 @@
 -----
 ## Week#02
 ### Required Topics
-1. Manage Anaconda Environment - Installed Anaconda on PC and Practised basic anaconda environment management command.[27-05-22]
-2. Studied basic numpy and run through all codes and practised resources from NSL.[30-05-22]
-3. Studied Numpy with basic statistics concepts.Run Through All Codes.[30-05-22]
+1. Manage Anaconda Environment - Installed Anaconda on PC and Practised basic anaconda environment management command.<br>[27-05-22]
+2. Studied basic numpy and run through all codes and practised resources from NSL. <br> [30-05-22] <br> [Link](https://github.com/nuhash-nsl/NSL-RA-Training/blob/main/DeepLearningGuide/Numpy_Basics/numpy_nsl.py)
+3. Studied Numpy with basic statistics concepts.Run Through All Codes. <br> [30-05-22] <br> [Link](https://github.com/nuhash-nsl/NSL-RA-Training/blob/main/DeepLearningGuide/Numpy_Basics/numpy_statistics.py)
 ### Recommended Courses
-1. Stanford Numpy Course completed and practised all the codes on PC. [30-05-22]
+1. Stanford Numpy Course completed and practised all the codes on PC.<br> [30-05-22] <br> [Link](https://github.com/nuhash-nsl/NSL-RA-Training/blob/main/DeepLearningGuide/Numpy_Basics/numpy_stanford.py)
 
-#### To Be Studied...
+# To Be Studied...
 ### Required Topics
 1. [OpenCV](./OpenCV-Intro)
     - For extensive opencv extample please check [this](./OpenCV-Intro/explore-cv)
