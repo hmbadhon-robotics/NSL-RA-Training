@@ -30,10 +30,11 @@
 ### Recommended Courses
 1. Stanford Numpy Course completed and practised all the codes on PC.<br> [30-05-22] <br> [Link](https://github.com/nuhash-nsl/NSL-RA-Training/blob/main/DeepLearningGuide/Numpy_Basics/numpy_stanford.py)
 
-# To Be Studied...
+
 ### Required Topics
 1. [OpenCV](./OpenCV-Intro)
     - For extensive opencv extample please check [this](./OpenCV-Intro/explore-cv)
+# To Be Studied...
 3. [Pillow image processing](https://pillow.readthedocs.io/en/stable/)
     - `Image`, `ImageChops`, `ImageColor`
     - `ImageDraw`, `ImageOps`, `ImageEnhance`
