@@ -38,7 +38,7 @@
     - `Image`, `ImageChops`, `ImageColor`
     - `ImageDraw`, `ImageOps`, `ImageEnhance`
     - Pillow font
-   <br>[Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/OpenCV)<br>
+   <br>[Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/Pillow)<br>
 
 ### Practice Problems
 1. [Hackerrank Image analysis challenges](https://www.hackerrank.com/contests/image-analysis-1/challenges)
