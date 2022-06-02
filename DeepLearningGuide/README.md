@@ -32,17 +32,14 @@
 
 
 ### Required Topics
-1. [OpenCV](./OpenCV-Intro)
-    - For extensive opencv extample please check [this](./OpenCV-Intro/explore-cv)
-# To Be Studied...
-3. [Pillow image processing](https://pillow.readthedocs.io/en/stable/)
+1. OpenCV- Studied all the required materials and learned them by code practice.<br>
+   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/OpenCV)
+2. Pillow image processing Studied All the Topics Required and Code practiced.<br>
     - `Image`, `ImageChops`, `ImageColor`
     - `ImageDraw`, `ImageOps`, `ImageEnhance`
-4. [Pillow font](https://pillow.readthedocs.io/en/stable/reference/ImageFont.html?highlight=ImageFont#imagefont-module)
-### Recommended Courses
-1. [OpenCV course](https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/)
-### Reference Books
-1. [Python CookBook](./Python_Cookbook_3rd%20Edition.pdf)
-2. [Automate The Boring Stuff With Python](./Books/automate_the_boring_stuff_with_python.pdf)
+    - Pillow font
+   <br>[Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/OpenCV)<br>
+
 ### Practice Problems
 1. [Hackerrank Image analysis challenges](https://www.hackerrank.com/contests/image-analysis-1/challenges)
+# To Be Studied...
