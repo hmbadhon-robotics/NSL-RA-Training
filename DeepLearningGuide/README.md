@@ -41,5 +41,6 @@
    <br>[Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/Pillow)<br>
 
 ### Practice Problems
-1. [Hackerrank Image analysis challenges](https://www.hackerrank.com/contests/image-analysis-1/challenges)
+1. [Hackerrank Image analysis challenges](https://www.hackerrank.com/contests/image-analysis-1/challenges)<br>
+Solves [link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/HackerRankImageChallenge)
 # To Be Studied...
