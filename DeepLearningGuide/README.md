@@ -32,52 +32,44 @@
 
 
 ### Required Topics
-1. OpenCV- Studied all the required materials and learned them by code practice.<br>
-   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/OpenCV)
+1. OpenCV- Studied all the required materials and learned them by code practice.<br> 
+   [Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/OpenCV)[01-06-22]
 2. Pillow image processing Studied All the Topics Required and Code practiced.<br>
     - `Image`, `ImageChops`, `ImageColor`
     - `ImageDraw`, `ImageOps`, `ImageEnhance`
     - Pillow font
-   <br>[Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/Pillow)<br>
+   <br>[Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/Pillow)<br> [02-06-22]
 
 ### Practice Problems
 1. [Hackerrank Image analysis challenges](https://www.hackerrank.com/contests/image-analysis-1/challenges)<br>
-Solves [link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/HackerRankImageChallenge)
+Solves [link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/HackerRankImageChallenge) [03-06-22]
 
 ## Week#03
 ### Required Topics
-1. [Deep learnng intro (Use your local jupyter notebook to view this)](./DL_intro/00_introduction.ipynb)
-2. [Deep learning basics (Use your local jupyter notebook to view this)](./DL_intro/01_deep_learning_basics.ipynb)
-3. [Deep learning tools (Use your local jupyter notebook to view this)](./DL_intro/02_deep_learning_tools.ipynb)
-4. [Tensorflow playground](https://playground.tensorflow.org)
+1. Deep learnng intro  - Studied and Setup of Jupyter Noteboook,Introduction <br> [06-06-22]
+2. Deep learning basics - Studied and Understood Deeplearning basics <br> [06-06-22]
+3. Deep learning tools - Studied and Understood Deeplearning Tools <br> [07-06-22]
+4. Tensorflow playground - practised with playground to learn about Neural Network model layers <br> [07-06-22]
 
 ### Recommended Courses
  - [Regression vs classfication](https://rakibul-hassan.gitbook.io/deep-learning/start-page/what_we_learnt)
  - [Linear regression, logistic regression, feature cross](https://rakibul-hassan.gitbook.io/deep-learning/start-page/feature_crosses)
  - [Experiment with moon dataset](http://datahacker.rs/implementing-shallow-neural-network-keras-moon-shaped-dataset/)
-### Reference Books
- - [Deep Learning with Python](./Books/Deep_Learning_with_Python_by_Chollet.pdf)
 ### Practice Problems
- - [Linear regression hacker rank](https://www.hackerrank.com/challenges/predicting-office-space-price/problem)
+ - [Linear regression hacker rank Solved](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/HackerRankPolynomialRegression)<br> [08-06-22]
 
  -----
 
  ## Week#04
  ### Required Topics
- - [Keras sequential API](https://keras.io/guides/sequential_model/)
- - [Keras functional API](https://keras.io/guides/functional_api/)
- - [MNIST hand written classification](./DL_intro/mnist_digits_clf)
- - [Cat vs dog classification](./DL_intro/cat_vs_dog-clf)
-
- ### Recommended Courses
- - [Udacity - "Intro to TensorFlow for Deep Learning"](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
- - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
- ### Reference Books
-  - [Deep Learning with Python](./Books/Deep_Learning_with_Python_by_Chollet.pdf)
-
-
+ - [Keras sequential API](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/KerasSequentialAPI) <br> Studied About Sequential API and Understood basics. Practised on Code. <br> [09-06-22]
+ - [Keras functional API](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/KerasFunctionalAPI) <br> Studied About Functional API and Practised on Code. <br> [09-06-22]
+ - [MNIST hand written classification](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/MINST_Hand_Written_Classification) <br> Used minst dataset to classify with Neural Network and CNN.<br>
+ - [Cat vs dog classification](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/Cat_Dog_Classification.) <br> Used Cat Dog dataset to classify images with CNN.<br> [13-06-22]
+ - [AutoEncoder]() <br> Studied Autoencoders with functional API and coded examples [10-06-22]
 ## Week#05
-- [CNN Layer Visualization](./DL_intro/cnn_layer_viz)
+- [CNN Layer Visualization](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/CNN_Visualization) <br> - Studied, Coded and Visualized CNN <br>[08-06-22]
+- # To Be Studied...
 - [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
 
