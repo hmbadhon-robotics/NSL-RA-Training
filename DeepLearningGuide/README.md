@@ -54,7 +54,7 @@ Solves [link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearni
 ### Recommended Courses
  - Regression vs classfication- Studied the theory.[07-06-22] <br>
  - [Linear regression, logistic regression, feature cross](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/Linear%20regression%2C%20logistic%20regression%2C%20feature%20cross) - <br> Studied and Visualized Decision Boundary, Practised with code. [07-06-22] <br>
- - [Experiment with moon dataset](http://datahacker.rs/implementing-shallow-neural-network-keras-moon-shaped-dataset/)
+ - [Experiment with moon dataset](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/Experiment%20With%20Moon%20Dataset) <br> Studied and practised with code. <br> [09-06-22] 
 ### Practice Problems
  - [Linear regression hacker rank Solved](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/HackerRankPolynomialRegression)<br> [08-06-22]
 
