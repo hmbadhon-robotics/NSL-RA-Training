@@ -52,8 +52,8 @@ Solves [link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearni
 4. Tensorflow playground - practised with playground to learn about Neural Network model layers <br> [07-06-22]
 
 ### Recommended Courses
- - Regression vs classfication- Studied the theory.
- - [Linear regression, logistic regression, feature cross](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/Linear%20regression%2C%20logistic%20regression%2C%20feature%20cross) - <br> Studied and Visualized Decision Boundary, Practised with code. <br>
+ - Regression vs classfication- Studied the theory.[07-06-22] <br>
+ - [Linear regression, logistic regression, feature cross](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/Linear%20regression%2C%20logistic%20regression%2C%20feature%20cross) - <br> Studied and Visualized Decision Boundary, Practised with code. [07-06-22] <br>
  - [Experiment with moon dataset](http://datahacker.rs/implementing-shallow-neural-network-keras-moon-shaped-dataset/)
 ### Practice Problems
  - [Linear regression hacker rank Solved](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/HackerRankPolynomialRegression)<br> [08-06-22]
