@@ -43,4 +43,42 @@
 ### Practice Problems
 1. [Hackerrank Image analysis challenges](https://www.hackerrank.com/contests/image-analysis-1/challenges)<br>
 Solves [link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/HackerRankImageChallenge)
+
+## Week#03
+### Required Topics
+1. [Deep learnng intro (Use your local jupyter notebook to view this)](./DL_intro/00_introduction.ipynb)
+2. [Deep learning basics (Use your local jupyter notebook to view this)](./DL_intro/01_deep_learning_basics.ipynb)
+3. [Deep learning tools (Use your local jupyter notebook to view this)](./DL_intro/02_deep_learning_tools.ipynb)
+4. [Tensorflow playground](https://playground.tensorflow.org)
+
+### Recommended Courses
+ - [Regression vs classfication](https://rakibul-hassan.gitbook.io/deep-learning/start-page/what_we_learnt)
+ - [Linear regression, logistic regression, feature cross](https://rakibul-hassan.gitbook.io/deep-learning/start-page/feature_crosses)
+ - [Experiment with moon dataset](http://datahacker.rs/implementing-shallow-neural-network-keras-moon-shaped-dataset/)
+### Reference Books
+ - [Deep Learning with Python](./Books/Deep_Learning_with_Python_by_Chollet.pdf)
+### Practice Problems
+ - [Linear regression hacker rank](https://www.hackerrank.com/challenges/predicting-office-space-price/problem)
+
+ -----
+
+ ## Week#04
+ ### Required Topics
+ - [Keras sequential API](https://keras.io/guides/sequential_model/)
+ - [Keras functional API](https://keras.io/guides/functional_api/)
+ - [MNIST hand written classification](./DL_intro/mnist_digits_clf)
+ - [Cat vs dog classification](./DL_intro/cat_vs_dog-clf)
+
+ ### Recommended Courses
+ - [Udacity - "Intro to TensorFlow for Deep Learning"](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+ - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
+ ### Reference Books
+  - [Deep Learning with Python](./Books/Deep_Learning_with_Python_by_Chollet.pdf)
+
+
+## Week#05
+- [CNN Layer Visualization](./DL_intro/cnn_layer_viz)
+- [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
+
+
 # To Be Studied...
