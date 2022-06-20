@@ -63,8 +63,7 @@ Solves [link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearni
  - [AutoEncoder]() <br> Studied Autoencoders with functional API and coded examples [10-06-22]
 ## Week#05
 - [CNN Layer Visualization](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/CNN_Visualization) <br> - Studied, Coded and Visualized CNN <br>[08-06-22]
-- # To Be Studied...
-- [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
-
-
+- Gradient Decent for Machine Learning.Studied and Understood varies types of gradient decent. [09-06-22] <br> 
+- [Image Segmentation](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/ImageSegmentation) <br> - Studied, Coded and Practiced Image Segmentation on Dog Cat dataset. [16-06-22]
 # To Be Studied...
+
