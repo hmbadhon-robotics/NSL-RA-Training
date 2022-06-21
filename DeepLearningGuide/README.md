@@ -65,5 +65,14 @@ Solves [link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearni
 - [CNN Layer Visualization](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/CNN_Visualization) <br> - Studied, Coded and Visualized CNN <br>[08-06-22]
 - Gradient Decent for Machine Learning.Studied and Understood varies types of gradient decent. [09-06-22] <br> 
 - [Image Segmentation](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/ImageSegmentation) <br> - Studied, Coded and Practiced Image Segmentation on Dog Cat dataset. [16-06-22]
-# To Be Studied...
+## Week#06
+### Required Topics
+- [Text classification from scratch](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/TextClassificationFromScratch)<br> Studied and coded Text classification with convolutuional neural network.<br> [17-06-22]
+- [Understanding-LSTM]<br> Studied and Understood the theory of LSTM.<br> [17-06-22]
+- [Perform add operation using RNN](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/AddOperationWithLSTM) <br> Studied and coded the problem and understood the theory of RNN.<br> [19-06-22]
+- [Bidirectional LSTM](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/DeepLearningGuide/BiLSTM%20on%20Text%20Data) <br> Studied and coded the problem and runthrough the problem.<br> [20-06-22]
+
+### Recommended Courses
+- [Udacity - "Intro to TensorFlow for Deep Learning" see only NLP part] <br> finished the course part and understood. [21-06-22]<br>
+- [Machine Learning Crash Course by Google see only embedings section] <br> Studied the course material. [21-06-22] <br>
 
